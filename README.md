@@ -5,7 +5,6 @@
 - 🔧 **Systems Programming**: Writing high-performance, memory-efficient code
 - 🐹 **Go Exploration**: Building concurrent systems and CLI tools
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,12 +24,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
----
-
 
 ## 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-shishkov-4516a9363/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishkov.maksim@outlook.com)
 
----
