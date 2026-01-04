@@ -15,7 +15,7 @@
 
 
 ### **Game Development**
-![SDL3](https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=sdl&logoColor=white)
+![SDL3](https://img.shields.io/badge/SDL3-000000?style=for-the-badge&logo=sdl&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 
